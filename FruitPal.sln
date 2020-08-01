@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitPal", "FruitPal\FruitPal.csproj", "{B0E5DCB4-1F70-4A1B-937C-31D0A447D054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{DCBB3E55-EDE6-4B57-B42C-7F2072B30C88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B5AA0AC1-5F68-4B76-B3CD-EC9C16E0BCA7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		NUnitTestClass.cs = NUnitTestClass.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E5DCB4-1F70-4A1B-937C-31D0A447D054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E5DCB4-1F70-4A1B-937C-31D0A447D054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E5DCB4-1F70-4A1B-937C-31D0A447D054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E5DCB4-1F70-4A1B-937C-31D0A447D054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCBB3E55-EDE6-4B57-B42C-7F2072B30C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBB3E55-EDE6-4B57-B42C-7F2072B30C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBB3E55-EDE6-4B57-B42C-7F2072B30C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBB3E55-EDE6-4B57-B42C-7F2072B30C88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2B44C22-422F-4DFA-AFE9-C5BB290E9BC1}
+	EndGlobalSection
+EndGlobal
